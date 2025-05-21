@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://DpRay125.github.io/DpEE</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://DpRay125.github.io/DpEE</link></image><lastBuildDate>Wed, 21 May 2025 05:50:14 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>AAA</title><link>https://DpRay125.github.io/DpEE/post/AAA.html</link><description>a
-A
-啊
-？
-?
-///
-。</description><guid isPermaLink="true">https://DpRay125.github.io/DpEE/post/AAA.html</guid><pubDate>Wed, 21 May 2025 05:49:46 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://DpRay125.github.io/DpEE</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://DpRay125.github.io/DpEE</link></image><lastBuildDate>Wed, 21 May 2025 08:04:23 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>测试&amp;第一篇文章</title><link>https://DpRay125.github.io/DpEE/post/ce-shi-%26-di-yi-pian-wen-zhang.html</link><description>### 为什么有这个Blog？
+希望记录一些生活中一闪而过的灵感、思考
+
+### 准备记录什么内容？
+有关工作中对某些知识的重认识
+有关日常生活中的一些感悟
+
+### 师傅你是做什么工作的？
+一个对电力系统调度运行略知一二的见习C++程序员
+
+### 如何联系你？
+留言即可，社恐，暂时没准备好与陌生人进行更多交流
+。</description><guid isPermaLink="true">https://DpRay125.github.io/DpEE/post/ce-shi-%26-di-yi-pian-wen-zhang.html</guid><pubDate>Wed, 21 May 2025 05:49:46 +0000</pubDate></item></channel></rss>
